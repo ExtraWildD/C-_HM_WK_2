@@ -1,0 +1,15 @@
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\bin\Debug\net7.0\Array.exe
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\bin\Debug\net7.0\Array.deps.json
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\bin\Debug\net7.0\Array.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\bin\Debug\net7.0\Array.pdb
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.pdb
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession2\Array\Array\obj\Debug\net7.0\ref\Array.dll
